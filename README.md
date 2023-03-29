@@ -20,7 +20,7 @@
 #### 2. Loyihani yuklab olish uchun quyidagi ketma-ketlikni bajaring:
   * `windows+R` klavishlarini bosing va paydo bo'lgan oynaga `cmd` buyrug'ini yozing OK tugmachasini bosing.
   
-  ![cmd](https://github.com/MisterFoziljon/CATS_vs_DOGS/blob/main/rasmlar/cmd.png)
+  ![cmd](https://github.com/MisterFoziljon/Fashion-MNIST/blob/main/rasmlar/cmd.png)
 
   * Loyihani quyidagi link yordamida yuklab oling. (Loyiha uchun yaratilgan fayl adresni o'zingiz ko'rsatishingiz mumkin)
 
