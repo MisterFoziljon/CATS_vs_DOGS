@@ -57,7 +57,7 @@
 
         (sizning_env) C:\CATS_vs_DOGS> jupyter notebook
         
-  * ```Cats vs Dogs.ipynb``` ni ishga tushiring. Usbu notebookda Tensorflow.org saytidagi cats_vs_dogs (https://www.tensorflow.org/datasets/catalog/cats_vs_dogs?hl=ru) datasetini o'qib olish, uni train va test datalariga ajratish, datalarni size va shape larini train uchun moslash hamda normallashtirish ko'rsatilgan. Dataset yordamida Convolutional Neural Network ishlab chiqilgan va u yordamida model train va evaluate qilingan. Model fayl ko'rinishida saqlanadi. Notebook yordamida saqlangan modelni load qilish va yangi test qilish datalari yordamida bashorat qilish (predict) ko'rsatib o'tilgan.
+  * ```Cats vs Dogs.ipynb``` ni ishga tushiring. Usbu notebookda [Tensorflow.org](https://www.tensorflow.org/) saytidagi cats_vs_dogs (https://www.tensorflow.org/datasets/catalog/cats_vs_dogs?hl=ru) datasetini o'qib olish, uni train va test datalariga ajratish, datalarni size va shape larini train uchun moslash hamda normallashtirish ko'rsatilgan. Dataset yordamida Convolutional Neural Network ishlab chiqilgan va u yordamida model train va evaluate qilingan. Model fayl ko'rinishida saqlanadi. Notebook yordamida saqlangan modelni load qilish va yangi test qilish datalari yordamida bashorat qilish (predict) ko'rsatib o'tilgan.
   * Modelni yuklab olish: https://drive.google.com/drive/folders/1PSvo9ZzQze6EtGdZpZCDCeWM857f6_1I?usp=share_link
  
 
